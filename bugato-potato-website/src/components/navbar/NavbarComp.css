@@ -1,0 +1,25 @@
+.nopadding {
+    /*border: 2px solid red;*/
+    padding: 0 !important;
+}
+
+.navbar-custom {
+    height: 75px;
+    background: rgba(9, 1, 1, 0.46);
+    -webkit-box-shadow: 0 8px 6px -6px rgba(9, 1, 1, 0.46);
+    -moz-box-shadow: 0 8px 6px -6px rgba(9, 1, 1, 0.46);
+    box-shadow: 0 5px 50px 15px rgba(9, 1, 1, 0.46);
+}
+
+.nav-custom {
+    justify-content: center !important;
+    text-align: center;
+}
+
+.nav-text-custom{
+    opacity: 1 !important;
+    color: white !important;
+    margin-left: 35px;
+    margin-right: 35px;
+    font-size: 25px !important;
+}
