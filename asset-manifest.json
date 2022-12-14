@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/BugatoPotato/static/css/main.ba2e4d38.css",
+    "main.js": "/BugatoPotato/static/js/main.3335c888.js",
+    "static/js/787.7a3c5ec7.chunk.js": "/BugatoPotato/static/js/787.7a3c5ec7.chunk.js",
+    "static/media/gamebackground.png": "/BugatoPotato/static/media/gamebackground.ec5b7357fa2247cb8047.png",
+    "static/media/gamebackground-cropped-2.png": "/BugatoPotato/static/media/gamebackground-cropped-2.7f16f058b8a835223164.png",
+    "static/media/sky 1.png": "/BugatoPotato/static/media/sky 1.efe8c70b28d902807ad6.png",
+    "static/media/pixel_star.gif": "/BugatoPotato/static/media/pixel_star.b59e4037dad39f4a3782.gif",
+    "index.html": "/BugatoPotato/index.html",
+    "main.ba2e4d38.css.map": "/BugatoPotato/static/css/main.ba2e4d38.css.map",
+    "main.3335c888.js.map": "/BugatoPotato/static/js/main.3335c888.js.map",
+    "787.7a3c5ec7.chunk.js.map": "/BugatoPotato/static/js/787.7a3c5ec7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba2e4d38.css",
+    "static/js/main.3335c888.js"
+  ]
+}
