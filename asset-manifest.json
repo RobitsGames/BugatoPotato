@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/BugatoPotato/static/css/main.d6e18ca3.css",
-    "main.js": "/BugatoPotato/static/js/main.03538eea.js",
+    "main.css": "/BugatoPotato/static/css/main.37d84df9.css",
+    "main.js": "/BugatoPotato/static/js/main.a442d9e6.js",
     "static/js/787.7a3c5ec7.chunk.js": "/BugatoPotato/static/js/787.7a3c5ec7.chunk.js",
     "static/media/nolanforcard2.png": "/BugatoPotato/static/media/nolanforcard2.55e770521aa51d13b71f.png",
     "static/media/gamebackground-cropped-2.png": "/BugatoPotato/static/media/gamebackground-cropped-2.7f16f058b8a835223164.png",
@@ -13,12 +13,12 @@
     "static/media/screenshot1.png": "/BugatoPotato/static/media/screenshot1.ab7164c1b054a6a22070.png",
     "static/media/sky dark background.png": "/BugatoPotato/static/media/sky dark background.cdf3759dd7663c22144b.png",
     "index.html": "/BugatoPotato/index.html",
-    "main.d6e18ca3.css.map": "/BugatoPotato/static/css/main.d6e18ca3.css.map",
-    "main.03538eea.js.map": "/BugatoPotato/static/js/main.03538eea.js.map",
+    "main.37d84df9.css.map": "/BugatoPotato/static/css/main.37d84df9.css.map",
+    "main.a442d9e6.js.map": "/BugatoPotato/static/js/main.a442d9e6.js.map",
     "787.7a3c5ec7.chunk.js.map": "/BugatoPotato/static/js/787.7a3c5ec7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6e18ca3.css",
-    "static/js/main.03538eea.js"
+    "static/css/main.37d84df9.css",
+    "static/js/main.a442d9e6.js"
   ]
 }
